@@ -94,42 +94,27 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 📫 Contact Me
 
-<p align="center">
+<p align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akhlaqKafeel&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+<a href="mailto:ikhlaqkafeelbusiness@gmail.com">
+<img src="https://img.shields.io/badge/Email-ikhlaqkafeelbusiness%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/ikhlaqkafeel">
+<img src="https://img.shields.io/badge/LinkedIn-ikhlaqkafeel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# ⚡ Current Focus
-
-- 🚀 Building Scalable Backend Systems
-- ⚙️ Microservices Architecture
-- 🌐 Full Stack Web Applications
-- 📚 Learning Advanced System Design
-- 💡 Clean Code & Best Practices
-
----
-
-# 📫 Contact
-
-- 📧 **ikhlaqkafeelbusiness@gmail.com**
-- 💼 **LinkedIn:** https://linkedin.com/in/ikhlaqkafeel
-
----
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=akhlaqKafeel&style=for-the-badge&color=blue"/>
-
-<br><br>
-
-⭐ **Thanks for visiting my profile!**
-
-<br><br>
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
 
