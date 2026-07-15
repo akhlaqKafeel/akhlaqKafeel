@@ -20,22 +20,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/ikhlaqkafeel">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ikhlaqkafeelbusiness@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 💻 Tech Stack
 
 ## 🌐 Frontend
@@ -94,18 +78,16 @@
 
 ---
 
-# 📫 Contact Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="mailto:ikhlaqkafeelbusiness@gmail.com">
-<img src="https://img.shields.io/badge/Email-ikhlaqkafeelbusiness%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/ikhlaqkafeel">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://linkedin.com/in/ikhlaqkafeel">
-<img src="https://img.shields.io/badge/LinkedIn-ikhlaqkafeel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:ikhlaqkafeelbusiness@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
